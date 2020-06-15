@@ -1,5 +1,5 @@
 //This is were Matrix is Solved for Echelon form in Simple Elimination Technique 
-//This Code is  is licensed under the MIT lICENSE
+//This Code is  is licensed under the MIT LICENSE
 //Copyright (c) 2020 Sonic-India
 #include <stdio.h>
 #include <stdlib.h>
