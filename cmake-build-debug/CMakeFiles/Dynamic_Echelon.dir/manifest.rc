@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/ingal/OneDrive/Desktop/Github/Test/Dynamic-Echelon/cmake-build-debug/CMakeFiles/Dynamic_Echelon.dir/embed.manifest"
